@@ -30,7 +30,7 @@ The game is free to play with no ads. Gems, offers, the Monthly Card and VIP are
 
 ## Support
 
-crownlune.app@gmail.com
+luneapps.support@gmail.com
 
 3D models: [KayKit](https://kaylousberg.com/game-assets) by Kay Lousberg (CC0).
 
@@ -62,7 +62,7 @@ Oyun ücretsizdir ve reklam içermez. Kıymetli Taş, teklifler, Aylık Kart ve 
 
 ### Destek
 
-crownlune.app@gmail.com
+luneapps.support@gmail.com
 
 3D modeller: [KayKit](https://kaylousberg.com/game-assets), Kay Lousberg (CC0).
 

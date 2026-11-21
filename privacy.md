@@ -43,7 +43,7 @@ If this policy changes, the new version will be published on this page with a ne
 
 ## Contact
 
-crownlune.app@gmail.com
+luneapps.support@gmail.com
 
 ---
 
@@ -86,4 +86,4 @@ Bu politika değişirse yeni hâli bu sayfada yeni tarihle yayımlanır.
 
 ### İletişim
 
-crownlune.app@gmail.com
+luneapps.support@gmail.com
